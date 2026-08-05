@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /tmp/
+Disallow: /node_modules/
+Disallow: /outputs/
+
+Sitemap: https://ssp-performance-beijing.calvinchristian8635.chatgpt.site/sitemap.xml
